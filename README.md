@@ -12,7 +12,7 @@
 
 
 
-<img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS00aXOYLzTQ6jZ9MMhiaSXcc-4D5htipv0pw&usqp=CAU">
+<img align="center" src="img/d85d4581632bcf7f14a4bab4914f5d1e.gif">
 
 [![](https://visitcount.itsvg.in/api?id=Mohadese-Keshtkar&icon=5&color=11)](https://visitcount.itsvg.in)
 ---
