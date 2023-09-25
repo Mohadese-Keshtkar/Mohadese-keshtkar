@@ -20,9 +20,9 @@
 <img align="right" width="400px" src="img/f74e0bd73320281938ec3ea61738c376.jpg">
 
 
-<p>My recommended books for you:</P>
+<h3><p>My recommended books for you:</P></h3>
 
-Uncle Bob's set of three:
+<h4>Uncle Bob's set of three:</h4>
 
 The Clean Coder
 
