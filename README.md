@@ -17,8 +17,17 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 
-<img align="right" width="380px" src="img/f74e0bd73320281938ec3ea61738c376.jpg">
+<img align="right" width="400px" src="img/f74e0bd73320281938ec3ea61738c376.jpg">
 
 
+<p>My recommended books for you:</P>
+
+Uncle Bob's set of three:
+
+The Clean Coder
+
+Clean Code
+
+Clean Architecture
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
