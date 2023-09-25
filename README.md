@@ -20,7 +20,7 @@
 <img align="right" width="400px" src="img/f74e0bd73320281938ec3ea61738c376.jpg">
 
 
-# My recommended books for you🌬️
+# Suggested books for you🌬️
 
 ## `Uncle Bob's set of three ↓`
 
