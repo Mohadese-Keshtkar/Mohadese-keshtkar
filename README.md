@@ -1,7 +1,5 @@
 
-
 [![](https://visitcount.itsvg.in/api?id=Mohadese-Keshtkar&icon=5&color=11)](https://visitcount.itsvg.in)
-
 
 # Hiii I'm Mohadeseh😈
 ### 📚I love to read books^^<br>
