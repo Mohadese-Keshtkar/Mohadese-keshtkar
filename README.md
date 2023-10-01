@@ -16,6 +16,8 @@
 
 ## `👩‍💻 Tech Stack:`
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="34" height="30" alt="Git" /></a>
+
 
 ---
 
@@ -33,3 +35,6 @@
 - ### ***Clean Architecture***
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+</p>
