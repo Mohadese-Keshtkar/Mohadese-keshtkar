@@ -7,6 +7,7 @@
 🌚Here you can see all my projects: https://github.com/Mohadese2006<br>
 
 <img align="center" width="100px" src="img/d85d4581632bcf7f14a4bab4914f5d1e.gif">
+<img align="right" width="270px" src="img/f74e0bd73320281938ec3ea61738c376.jpg">
 
 
 ## `🌐 Socials:`
@@ -19,20 +20,7 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="34" height="30" alt="Git" /></a>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="35" height="31"/>
 
----
 
-<img align="right" width="320px" src="img/f74e0bd73320281938ec3ea61738c376.jpg">
-
-
-# Suggested books for you🌬️
-
-## `Uncle Bob's set of three ↓`
-
-- ### ***The Clean Coder***
-
-- ### ***Clean Code***
-
-- ### ***Clean Architecture***
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
