@@ -7,7 +7,7 @@
 🌚Here you can see all my projects: https://github.com/Mohadese2006<br>
 
 <img align="center" width="100px" src="img/d85d4581632bcf7f14a4bab4914f5d1e.gif">
-<img align="right" width="270px" src="img/f74e0bd73320281938ec3ea61738c376.jpg">
+<img align="right" width="270px" src="img/koko.png">
 
 
 ## `🌐 Socials:`
